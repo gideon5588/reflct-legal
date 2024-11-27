@@ -1,5 +1,5 @@
 Terms of Use
-Last updated: [Current Date]
+Last updated: 11/27/2024
 
 Subscription Terms
 
