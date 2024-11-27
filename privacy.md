@@ -34,7 +34,7 @@ User Rights
 Access your data
 Request deletion
 Opt out of analytics
-Contact: [Your Email]
+Contact: reflct@pharah.org
 
 
 Security
